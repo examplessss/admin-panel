@@ -1,0 +1,40 @@
+#buttons{
+    margin-left: 900px;
+    margin-top: 100px;
+}
+.adduser{
+    display: flex;
+    margin-left: 420px;
+}
+
+.adduser .input-group{
+
+    width: 250px;
+    padding-top: 50px;
+    padding-left: 50px;
+    margin-left: 50px;
+}
+
+.user{
+    display: flex;
+    text-align: center;
+}
+
+.user div{
+    margin-left: 125px;
+    padding-top: 50px;
+}
+
+.head{
+
+}
+
+.head div{
+    margin-left: 250px;
+    padding-top: 50px;
+}
+
+.head{
+    display: flex;
+    text-align: center;
+}

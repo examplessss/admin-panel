@@ -1,0 +1,13 @@
+.form-inline{
+
+    padding-top: 20%;
+    padding-left: 30%;
+
+}
+
+@media only screen and (max-width: 1000px) {
+    .form-inline{
+        padding-top: 50%;
+        padding-left: 15%;
+    }
+}
